@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="src/assets/manage-your-exercise.png" width="1280">
+</p>
 # Web App Template
 
 Fitness Tracker is for tracking workouts, exercises, and measurements as well as charting results.
